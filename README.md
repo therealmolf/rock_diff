@@ -1,19 +1,21 @@
 <div align="center">
   
-# Package Name
+# Rock Diffusion
  
 Add tags here
 </div>
 
 ---
 # Tasks
-- [ ] Task 1
-- [ ] Task 2 
-- [ ] Task 3
+- [x] Try out diffusion models from HuggingFace Hub
+- [ ] Webscrape and create the dataset for artistic rock face images
+- [ ] Perform data augmentation for the rock face  
+- [ ] Create a KightningModule for the Diffusion Model
+- [ ] Train using PL and WandB
 
 # What is the repository?
 
-`package` is a _____
+`Rock Diffusion` is a repository containing the code for the unconditional generation of artistic rock face images.
 
 
 # Installation
